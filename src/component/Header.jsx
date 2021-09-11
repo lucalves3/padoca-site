@@ -6,8 +6,13 @@ class Header extends React.Component {
     const { id, text, src } = imageLogo;
     console.log(imageLogo[0].src)
       return(
-        <header>
-          <img src={ imageLogo[0].src } alt={ imageLogo[0].text } key={ imageLogo[0].id } />
+        <header className="header-container">
+          <img id="image-logo" src={ imageLogo[0].src } alt={ imageLogo[0].text } key={ imageLogo[0].id } />
+          <h1>Padoca Juá</h1>
+          <section>
+          <input id="header-button" type='button' value="Cardápio" />
+          <input id="header-button" type='button' value="Contato" />
+          </section>
         </header>
     )
   }
