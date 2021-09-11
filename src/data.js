@@ -1,7 +1,7 @@
 const image = [ 
 {
   id: "logo-padoca",
-  src: 'images/logo-padoca.png',
+  src: 'https://github.com/lucalves3/padoca-site/blob/front-end/public/images/logo-padoca.png?raw=true',
   text: "logo Padoca Juá",
 },
 {
