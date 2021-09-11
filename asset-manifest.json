@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/notes/static/css/main.a617e044.chunk.css",
-    "main.js": "/notes/static/js/main.5f4421f8.chunk.js",
-    "main.js.map": "/notes/static/js/main.5f4421f8.chunk.js.map",
-    "runtime-main.js": "/notes/static/js/runtime-main.5b72222c.js",
-    "runtime-main.js.map": "/notes/static/js/runtime-main.5b72222c.js.map",
-    "static/js/2.88df06f6.chunk.js": "/notes/static/js/2.88df06f6.chunk.js",
-    "static/js/2.88df06f6.chunk.js.map": "/notes/static/js/2.88df06f6.chunk.js.map",
-    "static/js/3.adf5a3e8.chunk.js": "/notes/static/js/3.adf5a3e8.chunk.js",
-    "static/js/3.adf5a3e8.chunk.js.map": "/notes/static/js/3.adf5a3e8.chunk.js.map",
-    "index.html": "/notes/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/notes/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.88df06f6.chunk.js.LICENSE.txt": "/notes/static/js/2.88df06f6.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/notes/static/media/logo.6ce24c58.svg"
+    "main.css": "/padoca-site/static/css/main.a617e044.chunk.css",
+    "main.js": "/padoca-site/static/js/main.5f4421f8.chunk.js",
+    "main.js.map": "/padoca-site/static/js/main.5f4421f8.chunk.js.map",
+    "runtime-main.js": "/padoca-site/static/js/runtime-main.8b6d0bfe.js",
+    "runtime-main.js.map": "/padoca-site/static/js/runtime-main.8b6d0bfe.js.map",
+    "static/js/2.88df06f6.chunk.js": "/padoca-site/static/js/2.88df06f6.chunk.js",
+    "static/js/2.88df06f6.chunk.js.map": "/padoca-site/static/js/2.88df06f6.chunk.js.map",
+    "static/js/3.adf5a3e8.chunk.js": "/padoca-site/static/js/3.adf5a3e8.chunk.js",
+    "static/js/3.adf5a3e8.chunk.js.map": "/padoca-site/static/js/3.adf5a3e8.chunk.js.map",
+    "index.html": "/padoca-site/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/padoca-site/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.88df06f6.chunk.js.LICENSE.txt": "/padoca-site/static/js/2.88df06f6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/padoca-site/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5b72222c.js",
+    "static/js/runtime-main.8b6d0bfe.js",
     "static/js/2.88df06f6.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.5f4421f8.chunk.js"
