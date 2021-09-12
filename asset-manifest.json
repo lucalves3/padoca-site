@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/padoca-site/static/css/main.2072c0c3.chunk.css",
-    "main.js": "/padoca-site/static/js/main.348bff5e.chunk.js",
-    "main.js.map": "/padoca-site/static/js/main.348bff5e.chunk.js.map",
+    "main.css": "/padoca-site/static/css/main.424d4bfa.chunk.css",
+    "main.js": "/padoca-site/static/js/main.2f0ac9d2.chunk.js",
+    "main.js.map": "/padoca-site/static/js/main.2f0ac9d2.chunk.js.map",
     "runtime-main.js": "/padoca-site/static/js/runtime-main.6e02ae72.js",
     "runtime-main.js.map": "/padoca-site/static/js/runtime-main.6e02ae72.js.map",
     "static/js/2.3569d5a2.chunk.js": "/padoca-site/static/js/2.3569d5a2.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.abb2bc7f.chunk.js": "/padoca-site/static/js/3.abb2bc7f.chunk.js",
     "static/js/3.abb2bc7f.chunk.js.map": "/padoca-site/static/js/3.abb2bc7f.chunk.js.map",
     "index.html": "/padoca-site/index.html",
-    "static/css/main.2072c0c3.chunk.css.map": "/padoca-site/static/css/main.2072c0c3.chunk.css.map",
+    "static/css/main.424d4bfa.chunk.css.map": "/padoca-site/static/css/main.424d4bfa.chunk.css.map",
     "static/js/2.3569d5a2.chunk.js.LICENSE.txt": "/padoca-site/static/js/2.3569d5a2.chunk.js.LICENSE.txt",
     "static/media/App.css": "/padoca-site/static/media/esfirra-soja.af419345.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.6e02ae72.js",
     "static/js/2.3569d5a2.chunk.js",
-    "static/css/main.2072c0c3.chunk.css",
-    "static/js/main.348bff5e.chunk.js"
+    "static/css/main.424d4bfa.chunk.css",
+    "static/js/main.2f0ac9d2.chunk.js"
   ]
 }
