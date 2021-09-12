@@ -5,8 +5,9 @@ class Teste extends React.Component {
     const { products } = this.props;
     console.log(products)
     return(
-      <section className="products-section">
-        { products.map((element) =>  
+      <section className="section-container-products">
+        { products.map((element) =>
+        <div className="products-section">  
         <div className="first-div-products">
           <h1> { element.id } </h1>
           <p>{ element.Text }</p>
@@ -16,6 +17,7 @@ class Teste extends React.Component {
           <p>{ element.Tag }</p>
           <p>A partir de:</p>
           <p>{ element.Price }</p>
+        </div>
         <div>
           <img className="image-products" src={ element.SourceImage } alt={ element.id } />
         </div>

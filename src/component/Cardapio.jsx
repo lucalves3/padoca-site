@@ -11,10 +11,10 @@ class Cardapio extends React.Component {
       <section>
         <h2>Esfirras</h2>
         <div className="Cardapio-items">
-          <EsfirraSoja products={ ProductsData }/>
+          {/* <EsfirraSoja products={ ProductsData }/>
           <EsfirraMarguerita products={ ProductsData }/>
-          <EsfirraCheddar products={ ProductsData }/>
-          {/* <Teste products={ ProductsData }/> */}
+          <EsfirraCheddar products={ ProductsData }/> */}
+          <Teste products={ ProductsData }/>
         </div>
         
       </section>
