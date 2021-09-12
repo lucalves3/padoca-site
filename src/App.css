@@ -1,18 +1,22 @@
 .header-container {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
   height: 120px;
   background-color: #f09715;
-
+  flex-direction: column;
+  z-index: 1;
 }
 
 #image-logo {
   width: 120px;
-  margin-left: 40px;
 }
 
-#header-button {
+.first-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-button {
   width: 120px;
   height: 40px;
   border-radius: 10px;
@@ -22,8 +26,34 @@
   font-size: 1.1em;
 }
 
-#header-button:hover {
+.header-button:hover {
   background-color: #d28311;
   color: white;
   font-size: 1.2em;
+}
+
+.header-button-left {
+  width: 120px;
+  height: 40px;
+  border-radius: 10px;
+  margin-left: 50px;
+  background-color: #f09715;
+  border: 0px;
+  font-size: 1.1em;
+}
+
+.header-button-left:hover {
+  background-color: #d28311;
+  color: white;
+  font-size: 1.2em;
+}
+
+.header-part-two {
+  display: flex;
+}
+
+.hero-section {
+  background-image: url(./images/esfirra-soja.jpeg);
+  height: 100vh;
+  background-size: cover;
 }

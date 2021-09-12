@@ -21,7 +21,7 @@ const image = [
 },
 {
   id: "esfirra-soja",
-  src: "images/esfirra-soja.jpeg",
+  src: "https://github.com/lucalves3/padoca-site/blob/front-end/public/images/esfirra-soja.jpeg?raw=true",
   text: "texto esfirra-soja",
 },
 {

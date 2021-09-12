@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 class Header extends React.Component {
   render() {
     const { imageLogo } = this.props;
@@ -7,11 +8,19 @@ class Header extends React.Component {
     console.log(imageLogo[0].src)
       return(
         <header className="header-container">
-          <img id="image-logo" src={ imageLogo[0].src } alt={ imageLogo[0].text } key={ imageLogo[0].id } />
-          <h1>Padoca Juá</h1>
-          <section>
-          <input id="header-button" type='button' value="Cardápio" />
-          <input id="header-button" type='button' value="Contato" />
+          <section className="first-section">
+            <section>
+            <input className="header-button-left" type='button' value="Sobre" />
+            <input className="header-button-left" type='button' value="Home" />
+            </section>
+            <img id="image-logo" src={ imageLogo[0].src } alt={ imageLogo[0].text }   key={ imageLogo[0].id } />
+            <section>
+            <input className="header-button" type='button' value="Cardápio" />
+            <input className="header-button" type='button' value="Contato" />
+            </section>
+          </section>
+          <section className="header-part-two">
+            {/* <img className="big-image-header" src={imageLogo[4].src} /> */}
           </section>
         </header>
     )
