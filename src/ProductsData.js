@@ -4,7 +4,7 @@ const esfirras = [
     Text: 'Maionese da Padoca, feita sem ingredientes de origem animal, sem conservantes e sem industrializados.',
     Acompanhamento: 'Acompanha maionese da casa',
     Ingredientes: 'Igredientes massa: Farinha de trigo, farinha de trigointegral, água, óleo de girassol, açucar, sal e fermento biológico.',
-    Aviso: 'Alérgicos e intolerantes: Todos os nossos preparos cotém glúten,portanto não são indicados para celíacos. Sem ingredientes de origemanimal',
+    Aviso: 'Alérgicos e intolerantes: Todos os nossos preparos cotém glúten,portanto não são indicados para celíacos.',
     Tag: 'Sem ingredientes de origem animal',
     Price: 'R$: 6,00',
     SourceImage: 'https://cdn.neemo.com.br/uploads/item/photo/1011894/logo_WhatsApp_Image_2021-06-23_at_21.58.45.jpeg',
@@ -51,7 +51,7 @@ const esfirras = [
   },
 ]
 
-const pizzas = [
+/* const pizzas = [
   {
     id: 'Cheddar com Cebola Caramelizada',
     Text: 'Cheddar artesanal com cebola caramelizada',
@@ -62,7 +62,7 @@ const pizzas = [
     Price: 'R$: 25,99',
     SourceImage: 'https://cdn.neemo.com.br/uploads/item/photo/1011900/logo_kit.JPG',
   },
-]
+] */
 
-export default (esfirras, pizzas);
+export default esfirras;
 

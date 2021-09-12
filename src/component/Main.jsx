@@ -4,7 +4,7 @@ import Cardapio from './Cardapio';
 class Main extends React.Component {
   render() {
     return(
-      <main>
+      <main className="main-container">
         <section>
           <h1>Cardápio</h1>
           <Cardapio />
