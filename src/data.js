@@ -1,7 +1,7 @@
 const image = [ 
 {
   id: "logo-padoca",
-  src: 'https://github.com/lucalves3/padoca-site/blob/front-end/public/images/logo-padoca.png?raw=true',
+  src: 'https://github.com/lucalves3/padoca-site/blob/front-end/src/images/logo-padoca.png?raw=true',
   text: "logo Padoca Juá",
 },
 {
@@ -21,7 +21,7 @@ const image = [
 },
 {
   id: "esfirra-soja",
-  src: "https://github.com/lucalves3/padoca-site/blob/front-end/public/images/esfirra-soja.jpeg?raw=true",
+  src: "src/images/esfirra-soja.jpeg",
   text: "texto esfirra-soja",
 },
 {
