@@ -51,18 +51,4 @@ const esfirras = [
   },
 ]
 
-/* const pizzas = [
-  {
-    id: 'Cheddar com Cebola Caramelizada',
-    Text: 'Cheddar artesanal com cebola caramelizada',
-    Acompanhamento: 'Acompanha maionese da casa',
-    Ingredientes: 'Igredientes massa: Farinha de trigo, farinha de trigo integral, água, óleo de girassol, açucar, sal e fermento biológico.',
-    Aviso: 'Alérgicos e intolerantes: Todos os nossos preparos cotém glúten, portanto não são indicados para celíacos. Sem ingredientes de origem animal',
-    Tag: 'Sem ingredientes de origem animal',
-    Price: 'R$: 25,99',
-    SourceImage: 'https://cdn.neemo.com.br/uploads/item/photo/1011900/logo_kit.JPG',
-  },
-] */
-
 export default esfirras;
-

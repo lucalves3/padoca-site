@@ -1,6 +1,6 @@
 import React from 'react';
 
-class Pizzas extends React.Component {
+class Sobremesas extends React.Component {
   render() {
     const { products } = this.props;
     return(
@@ -23,4 +23,4 @@ class Pizzas extends React.Component {
   }
 }
 
-export default Pizzas;
+export default Sobremesas;
