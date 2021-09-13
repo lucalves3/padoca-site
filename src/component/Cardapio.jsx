@@ -10,12 +10,12 @@ class Cardapio extends React.Component {
   render() {
     return(
       <section>
-        <h2>Esfirras</h2>
+        <h2 className="cardapio-class">Esfirras</h2>
         <div className="Cardapio-items">
           <Esfirras products={ ProductsData }/>
-          <h2>Pizzas</h2>
+          <h2 className="cardapio-class">Pizzas</h2>
           <Pizzas products={ pizzas }/>
-          <h2>Sobremesas</h2>
+          <h2 className="cardapio-class">Sobremesas</h2>
           <Sobremesas products={ sobremesas } />
         </div>
         

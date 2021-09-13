@@ -125,3 +125,11 @@
   height: 270px;
   background-color: white;
 }
+
+.cardapio-class {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
