@@ -1,9 +1,8 @@
 import React from 'react';
-import EsfirraCheddar from '../CardapioItems/EsfirraCheddar';
-import EsfirraMarguerita from '../CardapioItems/EsfirraMarguerita';
-import EsfirraSoja from '../CardapioItems/EsfirraSoja';
-import Teste from '../CardapioItems/teste';
+import Esfirras from '../CardapioItems/Esfirras';
+import Pizzas from '../CardapioItems/Pizzas';
 import ProductsData from '../ProductsData';
+import pizzas from '../ProductsPizzaData';
 
 class Cardapio extends React.Component {
   render() {
@@ -11,10 +10,9 @@ class Cardapio extends React.Component {
       <section>
         <h2>Esfirras</h2>
         <div className="Cardapio-items">
-          {/* <EsfirraSoja products={ ProductsData }/>
-          <EsfirraMarguerita products={ ProductsData }/>
-          <EsfirraCheddar products={ ProductsData }/> */}
-          <Teste products={ ProductsData }/>
+          <Esfirras products={ ProductsData }/>
+          <h2>Pizzas</h2>
+          <Pizzas products={ pizzas }/>
         </div>
         
       </section>
