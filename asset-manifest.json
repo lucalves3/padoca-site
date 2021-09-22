@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/padoca-site/static/css/main.8ab44902.chunk.css",
-    "main.js": "/padoca-site/static/js/main.852496ad.chunk.js",
-    "main.js.map": "/padoca-site/static/js/main.852496ad.chunk.js.map",
-    "runtime-main.js": "/padoca-site/static/js/runtime-main.6e02ae72.js",
-    "runtime-main.js.map": "/padoca-site/static/js/runtime-main.6e02ae72.js.map",
-    "static/js/2.3569d5a2.chunk.js": "/padoca-site/static/js/2.3569d5a2.chunk.js",
-    "static/js/2.3569d5a2.chunk.js.map": "/padoca-site/static/js/2.3569d5a2.chunk.js.map",
-    "static/js/3.abb2bc7f.chunk.js": "/padoca-site/static/js/3.abb2bc7f.chunk.js",
-    "static/js/3.abb2bc7f.chunk.js.map": "/padoca-site/static/js/3.abb2bc7f.chunk.js.map",
+    "main.css": "/padoca-site/static/css/main.6f72c91e.chunk.css",
+    "main.js": "/padoca-site/static/js/main.272bfecc.chunk.js",
+    "main.js.map": "/padoca-site/static/js/main.272bfecc.chunk.js.map",
+    "runtime-main.js": "/padoca-site/static/js/runtime-main.43151568.js",
+    "runtime-main.js.map": "/padoca-site/static/js/runtime-main.43151568.js.map",
+    "static/js/2.f29e4937.chunk.js": "/padoca-site/static/js/2.f29e4937.chunk.js",
+    "static/js/2.f29e4937.chunk.js.map": "/padoca-site/static/js/2.f29e4937.chunk.js.map",
+    "static/js/3.e3b2844e.chunk.js": "/padoca-site/static/js/3.e3b2844e.chunk.js",
+    "static/js/3.e3b2844e.chunk.js.map": "/padoca-site/static/js/3.e3b2844e.chunk.js.map",
     "index.html": "/padoca-site/index.html",
-    "static/css/main.8ab44902.chunk.css.map": "/padoca-site/static/css/main.8ab44902.chunk.css.map",
-    "static/js/2.3569d5a2.chunk.js.LICENSE.txt": "/padoca-site/static/js/2.3569d5a2.chunk.js.LICENSE.txt",
+    "static/css/main.6f72c91e.chunk.css.map": "/padoca-site/static/css/main.6f72c91e.chunk.css.map",
+    "static/js/2.f29e4937.chunk.js.LICENSE.txt": "/padoca-site/static/js/2.f29e4937.chunk.js.LICENSE.txt",
     "static/media/App.css": "/padoca-site/static/media/esfirra-soja.af419345.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6e02ae72.js",
-    "static/js/2.3569d5a2.chunk.js",
-    "static/css/main.8ab44902.chunk.css",
-    "static/js/main.852496ad.chunk.js"
+    "static/js/runtime-main.43151568.js",
+    "static/js/2.f29e4937.chunk.js",
+    "static/css/main.6f72c91e.chunk.css",
+    "static/js/main.272bfecc.chunk.js"
   ]
 }
