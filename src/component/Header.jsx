@@ -14,11 +14,22 @@ class Header extends React.Component {
             <input className="header-button-left" type='button' value="Home" /> */}
             </section>
             <img id="image-logo" src={ imageLogo[0].src } alt={ imageLogo[0].text }   key={ imageLogo[0].id } />
-            <section>
+            <section className="section-links-header">
             {/* <input className="header-button" type='button' value="Cardápio" />
             <input className="header-button" type='button' value="Contato" /> */}
-            <Link className="header-button" to="/Login">Login</Link>
-            <Link cclassName="header-button" to="/Cardápio">Cardápio</Link>
+            <Link to="/Login">
+              <button 
+              type="button"
+              className="header-button">
+                login
+                </button>
+            </Link>
+            <Link cclassName="header-button" to="/Cardápio">
+              <button
+              type="button" 
+              className="header-button-left">
+                Cardápio
+                </button></Link>
             </section>
           </section>
           <section className="header-part-two">
