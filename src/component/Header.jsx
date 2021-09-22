@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 class Header extends React.Component {
   render() {
     const { imageLogo } = this.props;
-    const { id, text, src } = imageLogo;
+    /* const { id, text, src } = imageLogo; */
     console.log(imageLogo[0].src)
       return(
         <header className="header-container">
