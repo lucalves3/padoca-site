@@ -1,3 +1,14 @@
+h1 {
+  font-size: 2em;
+  color: #f09715;
+}
+
+p {
+  font-size: 1.1em;
+  font-family: sans-serif;
+  color: white;
+}
+
 .header-container {
   display: flex;
   height: 120px;
@@ -20,7 +31,6 @@
   width: 120px;
   height: 40px;
   border-radius: 10px;
-
   background-color: #f09715;
   border: 0px;
   font-size: 1.1em;
@@ -81,8 +91,24 @@
   padding: 10px;
   border-radius: 10px;
   width: 450px;
-  height: 450px;
-  background-color: white;
+  background-color: rgb(81, 47, 38, 0.8);
+}
+
+.image-addtocart {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.button-add-to-cart {
+  border: none;
+  background-color: #6f544d;
+  margin-bottom: 20px;
+}
+
+.strong-price {
+  font-size: 1.3em;
 }
 
 .Cardapio-items {
@@ -94,6 +120,8 @@
 
 .image-products {
   border-radius: 10px;
+  width: 100px;
+  height: 100px;
 }
 
 .main-container {
@@ -110,7 +138,7 @@
 }
 
 .pizza-image-products {
-  width: 200px;
+  width: 100px;
   border-radius: 10px;
 }
 
@@ -121,8 +149,17 @@
   padding: 10px;
   border-radius: 10px;
   width: 450px;
-  height: 270px;
-  background-color: white;
+  background-color: rgb(81, 47, 38, 0.8);
+}
+
+.products-section-sobremesas {
+  margin: 10px;
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  border-radius: 10px;
+  width: 400px;
+  background-color: rgb(81, 47, 38, 0.8);
 }
 
 .cardapio-class {

@@ -6,7 +6,7 @@ const esfirras = [
     Ingredientes: 'Igredientes massa: Farinha de trigo, farinha de trigointegral, água, óleo de girassol, açucar, sal e fermento biológico.',
     Aviso: 'Alérgicos e intolerantes: Todos os nossos preparos cotém glúten,portanto não são indicados para celíacos.',
     Tag: 'Sem ingredientes de origem animal',
-    Price: 'R$: 6,00',
+    Price: 'R$ 6,00',
     SourceImage: 'https://cdn.neemo.com.br/uploads/item/photo/1011894/logo_WhatsApp_Image_2021-06-23_at_21.58.45.jpeg',
   },
   {
@@ -16,7 +16,7 @@ const esfirras = [
     Ingredientes: 'Igredientes massa: Farinha de trigo, farinha de trigo integral, água, óleo de girassol, açucar, sal e fermento biológico.',
     Aviso: 'Alérgicos e intolerantes: Todos os nossos preparos cotém glúten, portanto não são indicados para celíacos. Sem ingredientes de origem animal',
     Tag: 'Sem ingredientes de origem animal',
-    Price: 'R$: 6,00',
+    Price: 'R$ 6,00',
     SourceImage: 'https://cdn.neemo.com.br/uploads/item/photo/987112/logo_soja.JPG',
   },
   {
@@ -26,7 +26,7 @@ const esfirras = [
     Ingredientes: 'Igredientes massa: Farinha de trigo, farinha de trigo integral, água, óleo de girassol, açucar, sal e fermento biológico.',
     Aviso: 'Alérgicos e intolerantes: Todos os nossos preparos cotém glúten, portanto não são indicados para celíacos.',
     Tag: 'Sem ingredientes de origem animal',
-    Price: 'R$: 6,00',
+    Price: 'R$ 6,00',
     SourceImage: 'https://cdn.neemo.com.br/uploads/item/photo/987111/logo_esfirra_marguerita.JPG',
   },
   {
@@ -36,7 +36,7 @@ const esfirras = [
     Ingredientes: 'Igredientes massa: Farinha de trigo, farinha de trigo integral, água, óleo de girassol, açucar, sal e fermento biológico.',
     Aviso: 'Alérgicos e intolerantes: Todos os nossos preparos cotém glúten, portanto não são indicados para celíacos. Sem ingredientes de origem animal',
     Tag: 'Sem ingredientes de origem animal',
-    Price: 'R$: 6,00',
+    Price: 'R$ 6,00',
     SourceImage: 'https://cdn.neemo.com.br/uploads/item/photo/987113/logo_cheddar.JPG',
   },
   {
@@ -46,7 +46,7 @@ const esfirras = [
     Ingredientes: 'Igredientes massa: Farinha de trigo, farinha de trigo integral, água, óleo de girassol, açucar, sal e fermento biológico.',
     Aviso: 'Alérgicos e intolerantes: Todos os nossos preparos cotém glúten, portanto não são indicados para celíacos. Sem ingredientes de origem animal',
     Tag: 'Sem ingredientes de origem animal',
-    Price: 'R$: 25,99',
+    Price: 'R$ 25,99',
     SourceImage: 'https://cdn.neemo.com.br/uploads/item/photo/1011900/logo_kit.JPG',
   },
 ]

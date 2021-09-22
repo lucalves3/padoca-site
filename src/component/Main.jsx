@@ -6,7 +6,6 @@ class Main extends React.Component {
     return(
       <main className="main-container">
         <section>
-          <h1>Cardápio</h1>
           <Cardapio />
         </section>
       </main>
